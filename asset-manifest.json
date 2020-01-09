@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PeterSung-JunYou/reactapp.git/static/css/main.6a934dfc.chunk.css",
+    "main.js": "/PeterSung-JunYou/reactapp.git/static/js/main.a80470de.chunk.js",
+    "main.js.map": "/PeterSung-JunYou/reactapp.git/static/js/main.a80470de.chunk.js.map",
+    "runtime-main.js": "/PeterSung-JunYou/reactapp.git/static/js/runtime-main.a8d5fc42.js",
+    "runtime-main.js.map": "/PeterSung-JunYou/reactapp.git/static/js/runtime-main.a8d5fc42.js.map",
+    "static/js/2.3a451d8b.chunk.js": "/PeterSung-JunYou/reactapp.git/static/js/2.3a451d8b.chunk.js",
+    "static/js/2.3a451d8b.chunk.js.map": "/PeterSung-JunYou/reactapp.git/static/js/2.3a451d8b.chunk.js.map",
+    "index.html": "/PeterSung-JunYou/reactapp.git/index.html",
+    "precache-manifest.2864582dcc39f1c8bb9e04411e613461.js": "/PeterSung-JunYou/reactapp.git/precache-manifest.2864582dcc39f1c8bb9e04411e613461.js",
+    "service-worker.js": "/PeterSung-JunYou/reactapp.git/service-worker.js",
+    "static/css/main.6a934dfc.chunk.css.map": "/PeterSung-JunYou/reactapp.git/static/css/main.6a934dfc.chunk.css.map",
+    "static/js/2.3a451d8b.chunk.js.LICENSE": "/PeterSung-JunYou/reactapp.git/static/js/2.3a451d8b.chunk.js.LICENSE",
+    "static/media/logo.svg": "/PeterSung-JunYou/reactapp.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8d5fc42.js",
+    "static/js/2.3a451d8b.chunk.js",
+    "static/css/main.6a934dfc.chunk.css",
+    "static/js/main.a80470de.chunk.js"
+  ]
+}
