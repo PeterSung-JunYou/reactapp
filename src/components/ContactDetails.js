@@ -125,15 +125,15 @@ export default class ContactDetails extends React.Component {
 
     return (
       <div>
-        <h2 onClick={() => alert("clicked")}>Dtails</h2>
+        <h2 onClick={() => alert("clicked")}>연락처 상세</h2>
         <div>
           {this.props.isSelected ? (this.state.isEdit ? edit : view) : blank}
         </div>
         <p>
           <button onClick={this.handleToggle}>
-            {this.state.isEdit ? "OK" : "Edit"}
+            {this.state.isEdit ? "확인" : "수정"}
           </button>
-          <button onClick={this.props.onRemove}>Remove</button>
+          <button onClick={this.props.onRemove}>삭제</button>
         </p>
       </div>
     );
